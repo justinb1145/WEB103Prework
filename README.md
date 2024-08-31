@@ -37,8 +37,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 
+https://imgur.com/a/I0wmtle.gif
 
-👉🏿<img src='https://imgur.com/a/I0wmtle.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ezgif(https://ezgif.com/)
