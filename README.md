@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [X] List anything else that you added to improve the site's functionality!
-      I made the image url optional so that it can display creators without a profile photo
+      The image url  is optional.
 
 ## Video Walkthrough
 
