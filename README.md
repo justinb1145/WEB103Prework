@@ -38,7 +38,7 @@ Here's a walkthrough of implemented required features:
 
 
 
-👉🏿<img src='https://imgur.com/a/I0wmtle' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://imgur.com/a/I0wmtle.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ezgif(https://ezgif.com/)
