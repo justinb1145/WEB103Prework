@@ -1,4 +1,4 @@
-# WEB103 Prework - Web103 Prework Submission
+# WEB103 Prework 
 
 Submitted by: Justin Bradshaw
 
