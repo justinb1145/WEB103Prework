@@ -2,7 +2,7 @@
 
 Submitted by: Justin Bradshaw
 
-About this web app: CRUD App for listing creators
+About this web app: CRUD App for content creators
 
 Time spent: 40 hours
 
@@ -10,7 +10,7 @@ Time spent: 40 hours
 
 The following **required** functionality is completed:
 
-<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
+
 - [X] **A logical component structure in React is used to create the frontend of the app**
 - [X] **At least five content creators are displayed on the homepage of the app**
 - [X] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
@@ -45,7 +45,7 @@ GIF created with ...  ezgif(https://ezgif.com/)
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
-Having to properly route all the pages together
+Having to properly route all the pages together as well as keeping track of updates with creator cards.
 
 ## License
 
