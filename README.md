@@ -2,7 +2,7 @@
 
 Submitted by: Justin Bradshaw
 
-About this web app: CRUD App for content creators
+About this web app: CRUD app for content creators
 
 Time spent: 40 hours
 
